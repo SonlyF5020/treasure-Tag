@@ -1,0 +1,96 @@
+.center{
+    margin: auto;
+    text-align: center;
+}
+
+.imgSize{
+    width:40px;
+    height:40px;
+    vertical-align:middle;
+}
+
+.testDiv{
+    margin:auto;
+    width:1200px;
+    min-height:100px;
+    border:solid;
+    border-color:red;
+}
+
+.tags{
+    width:800px;
+    margin:auto;
+    margin-top:50px;
+    overflow:hidden;
+    border-radius:5px;
+    background-color:white;
+}
+.body{
+    margin:auto;
+}
+.textCenter{
+    text-align:center;
+}
+
+.tagTitle{
+    background-color:yellow;
+    max-width:300px;
+    min-width:100px;
+    min-height:50px;
+    line-height:45px;
+    padding-left:10px;
+    margin-right:20px;
+    font-size:30px;
+    box-shadow:0px 0px 2px #888888;
+    float:left;
+    border-radius:5px;
+    overflow:hidden;
+}
+.over{
+    background:gray;
+    border-radius:5px 5px 0px 0px;
+}
+.tagContent{
+    border:#888888;
+    background-color:white;
+    display:none;
+}
+.titles{
+    over-flow:hidden;
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:30px;
+}
+.contents{
+    box-shadow:0px 0px 5px #888888;
+    border-top:solid #888888;
+    overflow:hidden;
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:30px;
+}
+.clicked{
+    background-color:white;
+    box-shadow:0px 0px 5px #888888;
+    border-radius:5px 5px 0px 0px;
+}
+.textCenter{
+    text-align:center;
+}
+.bodyBackground{
+    background-image:url("/resources/img/retina_wood.png");
+}
+.bottomButton{
+    margin-top:100px;
+    text-align:center;
+}
+.resultActive{
+    background-color:yellow;
+    border-radius:2px;
+    width:800px;
+    margin:auto;
+    box-shadow:0px 0px 6px #888888;
+}
+

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HelloWorld100Times:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="baremvc.war">
+      <element id="artifact" artifact-name="HelloWorld100Times:war exploded" />
+    </root>
+  </artifact>
+</component>
